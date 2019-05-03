@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://edinsonnm.github.io/ABtesting/static/css/main.8dc35571.chunk.css",
-    "main.js": "https://edinsonnm.github.io/ABtesting/static/js/main.edd4b2ae.chunk.js",
-    "main.js.map": "https://edinsonnm.github.io/ABtesting/static/js/main.edd4b2ae.chunk.js.map",
-    "runtime~main.js": "https://edinsonnm.github.io/ABtesting/static/js/runtime~main.4eccefca.js",
-    "runtime~main.js.map": "https://edinsonnm.github.io/ABtesting/static/js/runtime~main.4eccefca.js.map",
-    "static/js/2.a2f723e8.chunk.js": "https://edinsonnm.github.io/ABtesting/static/js/2.a2f723e8.chunk.js",
-    "static/js/2.a2f723e8.chunk.js.map": "https://edinsonnm.github.io/ABtesting/static/js/2.a2f723e8.chunk.js.map",
-    "index.html": "https://edinsonnm.github.io/ABtesting/index.html",
-    "precache-manifest.38c98475f6cc1c7730fd83e835c5f9a7.js": "https://edinsonnm.github.io/ABtesting/precache-manifest.38c98475f6cc1c7730fd83e835c5f9a7.js",
-    "service-worker.js": "https://edinsonnm.github.io/ABtesting/service-worker.js",
-    "static/css/main.8dc35571.chunk.css.map": "https://edinsonnm.github.io/ABtesting/static/css/main.8dc35571.chunk.css.map",
-    "static/media/logo.svg": "https://edinsonnm.github.io/ABtesting/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ABtesting/static/css/main.8dc35571.chunk.css",
+    "main.js": "/ABtesting/static/js/main.ad2e3b17.chunk.js",
+    "main.js.map": "/ABtesting/static/js/main.ad2e3b17.chunk.js.map",
+    "runtime~main.js": "/ABtesting/static/js/runtime~main.7e1fd5fb.js",
+    "runtime~main.js.map": "/ABtesting/static/js/runtime~main.7e1fd5fb.js.map",
+    "static/js/2.a2f723e8.chunk.js": "/ABtesting/static/js/2.a2f723e8.chunk.js",
+    "static/js/2.a2f723e8.chunk.js.map": "/ABtesting/static/js/2.a2f723e8.chunk.js.map",
+    "index.html": "/ABtesting/index.html",
+    "precache-manifest.69eaff207682f07663598b451b9da618.js": "/ABtesting/precache-manifest.69eaff207682f07663598b451b9da618.js",
+    "service-worker.js": "/ABtesting/service-worker.js",
+    "static/css/main.8dc35571.chunk.css.map": "/ABtesting/static/css/main.8dc35571.chunk.css.map",
+    "static/media/logo.svg": "/ABtesting/static/media/logo.5d5d9eef.svg"
   }
 }
