@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.8dc35571.chunk.css",
-    "main.js": "./static/js/main.7d165271.chunk.js",
-    "main.js.map": "./static/js/main.7d165271.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-    "static/js/2.a2f723e8.chunk.js": "./static/js/2.a2f723e8.chunk.js",
-    "static/js/2.a2f723e8.chunk.js.map": "./static/js/2.a2f723e8.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.cb9a74f03666227e76cd2a6d5ff615e7.js": "./precache-manifest.cb9a74f03666227e76cd2a6d5ff615e7.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.8dc35571.chunk.css.map": "./static/css/main.8dc35571.chunk.css.map",
-    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
+    "main.css": "https://edinsonnm.github.io/ABtesting/static/css/main.8dc35571.chunk.css",
+    "main.js": "https://edinsonnm.github.io/ABtesting/static/js/main.edd4b2ae.chunk.js",
+    "main.js.map": "https://edinsonnm.github.io/ABtesting/static/js/main.edd4b2ae.chunk.js.map",
+    "runtime~main.js": "https://edinsonnm.github.io/ABtesting/static/js/runtime~main.4eccefca.js",
+    "runtime~main.js.map": "https://edinsonnm.github.io/ABtesting/static/js/runtime~main.4eccefca.js.map",
+    "static/js/2.a2f723e8.chunk.js": "https://edinsonnm.github.io/ABtesting/static/js/2.a2f723e8.chunk.js",
+    "static/js/2.a2f723e8.chunk.js.map": "https://edinsonnm.github.io/ABtesting/static/js/2.a2f723e8.chunk.js.map",
+    "index.html": "https://edinsonnm.github.io/ABtesting/index.html",
+    "precache-manifest.38c98475f6cc1c7730fd83e835c5f9a7.js": "https://edinsonnm.github.io/ABtesting/precache-manifest.38c98475f6cc1c7730fd83e835c5f9a7.js",
+    "service-worker.js": "https://edinsonnm.github.io/ABtesting/service-worker.js",
+    "static/css/main.8dc35571.chunk.css.map": "https://edinsonnm.github.io/ABtesting/static/css/main.8dc35571.chunk.css.map",
+    "static/media/logo.svg": "https://edinsonnm.github.io/ABtesting/static/media/logo.5d5d9eef.svg"
   }
 }
