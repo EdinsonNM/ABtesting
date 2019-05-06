@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ABtesting/static/css/main.d1bf5a6f.chunk.css",
-    "main.js": "/ABtesting/static/js/main.cc99d4cf.chunk.js",
-    "main.js.map": "/ABtesting/static/js/main.cc99d4cf.chunk.js.map",
+    "main.js": "/ABtesting/static/js/main.9b2a44fa.chunk.js",
+    "main.js.map": "/ABtesting/static/js/main.9b2a44fa.chunk.js.map",
     "runtime~main.js": "/ABtesting/static/js/runtime~main.7e1fd5fb.js",
     "runtime~main.js.map": "/ABtesting/static/js/runtime~main.7e1fd5fb.js.map",
-    "static/js/2.49f26028.chunk.js": "/ABtesting/static/js/2.49f26028.chunk.js",
-    "static/js/2.49f26028.chunk.js.map": "/ABtesting/static/js/2.49f26028.chunk.js.map",
+    "static/js/2.54d54eab.chunk.js": "/ABtesting/static/js/2.54d54eab.chunk.js",
+    "static/js/2.54d54eab.chunk.js.map": "/ABtesting/static/js/2.54d54eab.chunk.js.map",
     "index.html": "/ABtesting/index.html",
-    "precache-manifest.b1629cd7fdaeb983ba8730f9f6baea67.js": "/ABtesting/precache-manifest.b1629cd7fdaeb983ba8730f9f6baea67.js",
+    "precache-manifest.cf7759d8f904411448e61a97ee85007f.js": "/ABtesting/precache-manifest.cf7759d8f904411448e61a97ee85007f.js",
     "service-worker.js": "/ABtesting/service-worker.js",
     "static/css/main.d1bf5a6f.chunk.css.map": "/ABtesting/static/css/main.d1bf5a6f.chunk.css.map",
     "static/media/logo.svg": "/ABtesting/static/media/logo.5d5d9eef.svg"
